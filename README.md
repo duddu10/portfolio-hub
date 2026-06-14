@@ -1,65 +1,35 @@
-# PortfolioHUB - Eduardo Leal
+## Atualização com IA Gemini
 
-Este repositório foi criado como parte da atividade **Desafio - Entrega Intermediária: Criação de Repositório com Versionamento**.
+Nesta etapa da entrega final, o PortfolioHUB foi atualizado com apoio da IA Gemini. A ferramenta foi utilizada para auxiliar na criação de conteúdo, organização das informações, revisão da documentação e sugestão de boas práticas de segurança.
 
-## Objetivo
+Foram acrescentadas informações sobre o primeiro semestre do curso de Engenharia de Software, destacando as disciplinas estudadas e os principais aprendizados desenvolvidos.
 
-Organizar projetos acadêmicos e pessoais em um repositório versionado com Git e publicado no GitHub, criando um portfólio profissional para apresentação no LinkedIn.
+## Disciplinas do Primeiro Semestre
 
-## Estrutura do Repositório
+### Fundamentos de Engenharia
 
-```txt
-portfolio-hub/
-├── README.md
-├── projetos-academicos/
-├── projetos-pessoais/
-├── documentos/
-├── slides/
-└── site/
-```
+Disciplina voltada à compreensão do papel da engenharia, resolução de problemas, pensamento crítico e desenvolvimento de projetos.
 
-## Seções
+### Banco de Dados
 
-### Projetos Acadêmicos
-Pasta destinada aos trabalhos, atividades e projetos desenvolvidos durante a faculdade.
+Disciplina focada na organização e armazenamento de informações, com estudo de tabelas, registros, chaves, relacionamentos e modelagem de dados.
 
-### Projetos Pessoais
-Pasta destinada a projetos criados por iniciativa própria para estudo, prática e desenvolvimento profissional.
+### Introdução à Computação
 
-### Documentos
-Pasta para armazenar arquivos de apoio, relatórios e registros da atividade.
+Disciplina que apresenta os conceitos básicos da computação, como hardware, software, sistemas operacionais, redes e segurança.
 
-### Slides
-Pasta destinada à apresentação final do repositório.
+### Lógica de Programação
 
-### Site
-Pasta com a página web do portfólio, desenvolvida em HTML e CSS.
+Disciplina essencial para desenvolver raciocínio lógico, criação de algoritmos, uso de variáveis, estruturas condicionais, repetições, vetores e matrizes.
 
-## Tecnologias Utilizadas
+### Engenharia de Software
 
-- Git
-- GitHub
-- GitHub Pages
-- HTML
-- CSS
-- LinkedIn
+Disciplina que apresenta o processo de desenvolvimento de sistemas, incluindo requisitos, planejamento, testes, implantação e manutenção.
 
-## Versionamento
+## Segurança e Controle de Acesso
 
-Versão inicial do projeto: **1.0**
+Foram consideradas boas práticas de segurança, como uso de senha forte, autenticação em dois fatores, cuidado para não publicar dados sensíveis e controle de acesso ao repositório.
 
-Exemplo de commit utilizado:
+## Testes e Finalização
 
-```bash
-git add .
-git commit -m "Versao 1.0 do portfolio"
-git push
-```
-
-## GitHub Pages
-
-A página do portfólio pode ser publicada pelo GitHub Pages a partir da pasta `site` ou da branch principal, conforme a configuração do repositório.
-
-## Autor
-
-Eduardo Leal
+Após a atualização do portfólio, foram realizados testes de navegação, revisão dos textos, conferência da estrutura do site e verificação da documentação do projeto.
